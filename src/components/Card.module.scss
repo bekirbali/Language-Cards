@@ -1,0 +1,11 @@
+.card {
+  box-shadow: 0 0 0.2rem 0.1rem rgba($color: #00000041, $alpha: 0.3);
+  border-radius: 0.5rem;
+  padding: 0 0.3rem 0.3rem 0.3rem;
+  ul {
+    list-style: none;
+    padding: 0.0001rem;
+    height: 100px;
+    width: 100px;
+  }
+}
